@@ -49,7 +49,7 @@ git push -u origin <your_branch_name>
 <h2>⚡ Important Guidelines</h2>
 <ol>
   <li>The contributors will be allowed to work on the issue ONLY after it has been assigned to them.</li>
-  <li>The contributions will be counted only for the time period of the event, after the time period ends contributions can be taken in but wont be counted for the final evaluation.</li>
+  <li>The contributions will be counted only for the time period of the event, after the time period ends contributions can be taken in but won't be counted for the final evaluation.</li>
   <li>Tampering or any unethical behaviour to the files or other participants will result in immediate disqualification.</li>
   <li>Each PR must be associated with only ONE issue.</li>
   <li>Don't open pull requests with minor text edits on other people's repositories.</li>
